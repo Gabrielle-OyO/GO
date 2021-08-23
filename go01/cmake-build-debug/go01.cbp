@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="go01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="go01">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/go01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 go01"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="go01/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/go01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 go01/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.1">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.1"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.1/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.1/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.1">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/1.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.1"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.1/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/1.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.1/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.2">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.2"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.2/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.2/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.3">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.3"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.3/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.3/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.8">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.8"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.8/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.8/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.8">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/1.8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.8"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1.8/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/1.8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 1.8/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.4">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.4"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.4/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.4/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.7">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.7"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.7/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.7/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.6">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.6"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.6/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.6/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.5">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.5"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.5/fast">
+				<Option output="C:/Users/18377/Desktop/go/go01/cmake-build-debug/2.5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.5/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/18377/Desktop/go/go01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/18377/Desktop/go/go01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/1.1.cpp">
+			<Option target="1.1"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/1.8.cpp">
+			<Option target="go01"/>
+			<Option target="1.8"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/1.9.cpp">
+			<Option target="go01"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.1.cpp">
+			<Option target="go01"/>
+			<Option target="2.1"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.2.cpp">
+			<Option target="2.2"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.3.cpp">
+			<Option target="go01"/>
+			<Option target="2.3"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.4.cpp">
+			<Option target="go01"/>
+			<Option target="2.4"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.5.cpp">
+			<Option target="go01"/>
+			<Option target="2.5"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.6.cpp">
+			<Option target="go01"/>
+			<Option target="2.6"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.7.cpp">
+			<Option target="go01"/>
+			<Option target="2.7"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/2.8.cpp">
+			<Option target="go01"/>
+			<Option target="2.8"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/main.cpp">
+			<Option target="go01"/>
+		</Unit>
+		<Unit filename="C:/Users/18377/Desktop/go/go01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

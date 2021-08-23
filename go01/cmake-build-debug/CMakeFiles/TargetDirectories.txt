@@ -1,0 +1,13 @@
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/go01.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.1.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/1.1.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.2.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.3.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.8.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/1.8.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.4.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.7.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.6.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/2.5.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/18377/Desktop/go/go01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
