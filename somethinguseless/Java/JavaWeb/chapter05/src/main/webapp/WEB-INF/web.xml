@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <servlet>
+        <servlet-name>LastAccessServlet</servlet-name>
+        <servlet-class>com.example.chapter05.LastAccessServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LastAccessServlet</servlet-name>
+        <url-pattern>/LastAccessServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <display-name>ListBookServlet</display-name>
+        <servlet-name>ListBookServlet</servlet-name>
+        <servlet-class>com.example.chapter05.ListBookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ListBookServlet</servlet-name>
+        <url-pattern>/ListBookServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <display-name>PurchaseServlet</display-name>
+        <servlet-name>PurchaseServlet</servlet-name>
+        <servlet-class>com.example.chapter05.PurchaseServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PurchaseServlet</servlet-name>
+        <url-pattern>/PurchaseServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <display-name>CartServlet</display-name>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>com.example.chapter05.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/CartServlet</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

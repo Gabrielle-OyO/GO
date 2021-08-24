@@ -1,0 +1,3 @@
+C:/AllProject/GccProgram/0413/zhizhen/cmake-build-debug/CMakeFiles/zhizhen.dir
+C:/AllProject/GccProgram/0413/zhizhen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AllProject/GccProgram/0413/zhizhen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
