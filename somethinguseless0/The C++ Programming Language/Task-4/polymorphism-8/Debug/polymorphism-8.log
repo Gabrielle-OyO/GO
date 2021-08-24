@@ -1,0 +1,3 @@
+﻿  polymorphism-8.cpp
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-8\polymorphism-8.cpp(29,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  polymorphism-8.vcxproj -> C:\AllProject\The C++ Programming Language\Task-4\Debug\polymorphism-8.exe

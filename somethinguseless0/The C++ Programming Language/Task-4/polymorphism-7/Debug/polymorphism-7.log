@@ -1,0 +1,10 @@
+﻿  polymorphism-7.cpp
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(46,11): error C2248: “base::func1”: 无法访问 private 成员(在“base”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(27): message : 参见“base::func1”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(7): message : 参见“base”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(47,11): error C2248: “base::func2”: 无法访问 private 成员(在“base”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(28): message : 参见“base::func2”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(7): message : 参见“base”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(48,11): error C2248: “base::func4”: 无法访问 private 成员(在“base”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(30): message : 参见“base::func4”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-7\polymorphism-7.cpp(7): message : 参见“base”的声明

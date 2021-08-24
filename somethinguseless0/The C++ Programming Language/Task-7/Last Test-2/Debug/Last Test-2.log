@@ -1,0 +1,4 @@
+﻿  Last Test-2.cpp
+C:\AllProject\The C++ Programming Language\Task-7\Last Test-2\Last Test-2.cpp(50): warning C4716: “operator<<”: 必须返回一个值
+C:\AllProject\The C++ Programming Language\Task-7\Last Test-2\Last Test-2.cpp(61): warning C4716: “operator>>”: 必须返回一个值
+  Last Test-2.vcxproj -> C:\AllProject\The C++ Programming Language\Task-7\Debug\Last Test-2.exe

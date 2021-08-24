@@ -1,0 +1,3 @@
+﻿  Last Test-4.cpp
+C:\AllProject\The C++ Programming Language\Task-7\Last Test-4\Last Test-4.cpp(55): error C4716: “operator<<”: 必须返回一个值
+C:\AllProject\The C++ Programming Language\Task-7\Last Test-4\Last Test-4.cpp(67): error C4716: “operator>>”: 必须返回一个值

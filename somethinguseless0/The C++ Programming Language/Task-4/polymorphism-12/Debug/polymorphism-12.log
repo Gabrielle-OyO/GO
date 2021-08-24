@@ -1,0 +1,74 @@
+﻿  polymorphism-12.cpp
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(33,1): error C2789: “Person::name”: 必须初始化常量限定类型的对象
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(21): message : 参见“Person::name”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(34,17): error C2664: “char *strcpy(char *,const char *)”: 无法将参数 1 从“const char [10]”转换为“char *”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(34,9): message : 转换丢失限定符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 参见“strcpy”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(58,39): error C2664: “student::student(char *,int,float)”: 无法将参数 1 从“const char [10]”转换为“char *”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(58,22): message : 转换丢失限定符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(50,2): message : 参见“student::student”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(72,63): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(130,14): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(136,19): error C2039: "Index": 不是 "DLinList" 的成员
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(109): message : 参见“DLinList”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(137,1): error C2270: “Index”: 非成员函数上不允许修饰符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(138,24): error C2563: 在形参表中不匹配
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(138,24): error C2568: “>”: 无法解析函数重载
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(138,24): message : 可能是“size_t std::size(const _Ty (&)[_Size]) noexcept”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(138,24): message : 或    “unknown-type std::size(const _Container &)”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(143,23): error C2065: “head”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(144,17): error C2065: “head”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(148,14): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(164,16): error C2248: “Person::point”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(24): message : 参见“Person::point”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(164,16): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(165,23): error C2248: “Person::point”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(24): message : 参见“Person::point”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(182,14): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(186,14): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(187,7): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(187,20): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(187,26): error C2248: “Person::next”: 无法访问 protected 成员(在“Person”类中声明)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(23): message : 参见“Person::next”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(17): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(192,16): error C2039: "Person": 不是 "DLinList" 的成员
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(109): message : 参见“DLinList”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(194,10): error C2065: “curr”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(194,17): error C2065: “head”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(195,9): error C2065: “curr”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(197,3): error C2065: “curr”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(198,3): error C2065: “curr”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(198,10): error C2065: “curr”: 未声明的标识符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(202,7): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(202,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(202,1): error C2373: “Person”: 重定义；不同的类型修饰符
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(192): message : 参见“Person”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(202,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(202,17): error C2371: “point”: 重定义；不同的基类型
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(24): message : 参见“point”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(204,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(206,30): error C2664: “student::student(char *,int,float)”: 无法将参数 1 从“const char [4]”转换为“char *”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(206,16): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(50,2): message : 参见“student::student”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(207,41): error C2664: “teacher::teacher(const char *,int,char *)”: 无法将参数 3 从“const char [12]”转换为“char *”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(207,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(72,2): message : 参见“teacher::teacher”的声明
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(208,44): error C2664: “teacher::teacher(const char *,int,char *)”: 无法将参数 3 从“const char [15]”转换为“char *”
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(208,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\AllProject\The C++ Programming Language\Task-4\polymorphism-12\polymorphism-12.cpp(72,2): message : 参见“teacher::teacher”的声明
