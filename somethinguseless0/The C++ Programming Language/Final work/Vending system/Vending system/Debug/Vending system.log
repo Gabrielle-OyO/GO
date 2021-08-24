@@ -1,0 +1,9 @@
+﻿  Vending system.cpp
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(90,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(109,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(131,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(147,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(169,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(191,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\AllProject\The C++ Programming Language\Final work\Vending system\Vending system\Vending system.cpp(225,31): warning C4018: “<”: 有符号/无符号不匹配
+  Vending system.vcxproj -> C:\AllProject\The C++ Programming Language\Final work\Vending system\Debug\Vending system.exe

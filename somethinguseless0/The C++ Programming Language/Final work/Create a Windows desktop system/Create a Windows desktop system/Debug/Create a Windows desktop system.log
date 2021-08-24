@@ -1,0 +1,15 @@
+﻿  Create a Windows desktop system.cpp
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(107,10): warning C4101: “grade”: 未引用的局部变量
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(233,17): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(280,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(304,21): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(361,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(484,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(520,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(591,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(643,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\AllProject\The C++ Programming Language\Final work\Create a Windows desktop system\Create a Windows desktop system\Create a Windows desktop system.cpp(747,32): warning C4244: “参数”: 从“double”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
