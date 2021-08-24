@@ -1,0 +1,9 @@
+temp=input("输入年份，判断是否为闰年")
+year=int(temp)
+
+while(year/4==0):
+    if(year/100==0)and(year/400==0):
+        print(str(year)+"为闰年")
+    if else(year/100!=0):
+        print(str(year)+"为闰年")
+print(str(year)+"不是闰年")
