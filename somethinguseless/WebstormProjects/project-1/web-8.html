@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String Replacement Tool</title>
+</head>
+
+<!--函数计算-->
+<script>
+    function get()
+    {
+        let str1;
+        let str2;
+        let str3;
+        str1=document.getElementById("1").value;
+        str2=document.getElementById("2").value;
+        str3=document.getElementById("3").value;
+        if(str1.indexOf(str2)!==-1)
+        {
+            str1=str1.replace(str2,str3);
+            document.getElementById("4").value=str1;
+        }else
+            alert(`字符串中不包含${str2},请重新输入`);
+    }
+</script>
+
+<body>
+<!--外形展示-->
+<table>
+    <tr>
+        <td><span>源字符串：</span></td>
+        <td><label for="1"></label><input type="text" id="1" class="number" width="150px" height="30px"></td>
+    </tr>
+    <tr>
+        <td><span>查询：</span></td>
+        <td><label for="2"></label><input type="text" id="2" class="number" width="150px" height="'30px"></td>
+    </tr>
+    <tr>
+        <td><span>替换为：</span></td>
+        <td><label for="3"></label><input type="text" id="3" class="number" width="150px" height="30px"></td>
+    </tr>
+    <tr>
+        <td><span>替换结果：</span></td>
+        <td><label for="4"></label><input type="text" id="4" class="number" width="150px" height="30px"></td>
+    </tr>
+</table>
+
+<div>
+    <input type="button" id="5" value="替换" onclick="get()" style="margin-left:120px"/>
+</div>
+
+
+</body>
+</html>
