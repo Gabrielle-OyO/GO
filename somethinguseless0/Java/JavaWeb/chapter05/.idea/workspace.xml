@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chapter05:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21c4e09-7319-4172-8980-82503685d79d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CPP-test/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CPP-test/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/04-06-01/.idea/04-06-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/hellotest/.idea/hellotest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/zhizhen/.idea/zhizhen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/插入新节点/.idea/插入新节点.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/01/.idea/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/02/.idea/02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/顺序栈/.idea/顺序栈.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/SelfStudy/SequenceTable01/.idea/SequenceTable01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/SelfStudy/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/test01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/test1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-01/.idea/Java-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-01/01/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03/chapter03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWebClassWork/demo01/demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../The C++ Programming Language/.idea/The C++ Programming Language.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-02/java-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-03/ServleDemo/ServleDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-03/servletSample/SerletSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_1.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_1.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_2.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_2.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e3.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e3.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/untitled.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/untitled.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means 聚类分析.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/ad_performance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/Shanghai and Shenzhen stocks/Daily Quotes.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1rkCRZFIMpxFJfVDbsipPD7RT68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.chapter05" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/chapter05" />
+      <deployment>
+        <artifact name="chapter05:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/chapter05" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="82af58bf-03e1-4ab6-b78d-1c29fef64385" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57309" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="chapter05:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21c4e09-7319-4172-8980-82503685d79d" name="Default Changelist" comment="" />
+      <created>1619510696224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619510696224</updated>
+      <workItem from="1619510698258" duration="13110000" />
+      <workItem from="1619596917810" duration="100000" />
+      <workItem from="1620721449719" duration="1678000" />
+      <workItem from="1620724868654" duration="1319000" />
+      <workItem from="1620797948889" duration="6000" />
+      <workItem from="1622973898681" duration="247000" />
+      <workItem from="1622976347438" duration="994000" />
+      <workItem from="1623064827606" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

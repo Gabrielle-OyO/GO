@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="test01" targetName="test01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c9a5296-7e01-4936-8229-acb4d8f45a7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CPP-test/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CPP-test/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-06-01/.idea/04-06-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0413/hellotest/.idea/hellotest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0413/zhizhen/.idea/zhizhen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0413/插入新节点/.idea/插入新节点.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01/.idea/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02/.idea/02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../顺序栈/.idea/顺序栈.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SelfStudy/SequenceTable01/.idea/SequenceTable01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SelfStudy/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-01/.idea/Java-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-01/01/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaWeb/chapter03/chapter03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaWebClassWork/demo01/demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../The C++ Programming Language/.idea/The C++ Programming Language.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-02/java-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-03/ServleDemo/ServleDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-03/servletSample/SerletSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e1_1.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e1_1.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e1_2.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e1_2.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e3.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/e3.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/untitled.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Matlab Code/Source code/源代码/untitled.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/2019-nCov Infected new date/2019-nCov.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/K-Means advertising effect cluster analysis/K-Means 聚类分析.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/K-Means advertising effect cluster analysis/ad_performance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spyder/Shanghai and Shenzhen stocks/Daily Quotes.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1rTMtJBiaPlnLpXovVMDkltGtsW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test01" TARGET_NAME="test01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test01" RUN_TARGET_NAME="test01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c9a5296-7e01-4936-8229-acb4d8f45a7b" name="Default Changelist" comment="" />
+      <created>1618995839850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618995839850</updated>
+      <workItem from="1618995842158" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chapter04:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f89071f-d031-467e-8d7c-7ff401645490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CPP-test/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CPP-test/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/04-06-01/.idea/04-06-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/hellotest/.idea/hellotest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/zhizhen/.idea/zhizhen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0413/插入新节点/.idea/插入新节点.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/01/.idea/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/02/.idea/02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/0420/顺序栈/.idea/顺序栈.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/SelfStudy/SequenceTable01/.idea/SequenceTable01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/SelfStudy/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/test01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/test/test1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GccProgram/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-01/.idea/Java-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-01/01/01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03/chapter03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWebClassWork/demo01/demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../The C++ Programming Language/.idea/The C++ Programming Language.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-02/java-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-03/ServleDemo/ServleDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-03/servletSample/SerletSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_1.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_1.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_2.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e1_2.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e3.mlx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/e3.mlx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/untitled.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matlab Code/Source code/源代码/untitled.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../PythonProjects/Scoring system for airport news data/.vs/Scoring system for airport news data/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov Infected new date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/2019-nCov Infected new date/2019-nCov.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means advertising effect cluster analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/K-Means 聚类分析.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/K-Means advertising effect cluster analysis/ad_performance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spyder/Shanghai and Shenzhen stocks/Daily Quotes.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1rQMbCim2u6LYLMjxwDkAf4FlXe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn.itcast.chapter04.response" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="chapter04:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/chapter04_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d482044b-91cf-48c3-88c3-4cebfa10caf5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="chapter04:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f89071f-d031-467e-8d7c-7ff401645490" name="Default Changelist" comment="" />
+      <created>1618903932105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618903932105</updated>
+      <workItem from="1618903933822" duration="9249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
