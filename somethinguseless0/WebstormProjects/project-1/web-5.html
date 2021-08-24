@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DATE</title>
+</head>
+<body>
+
+
+<script>
+    //表示不是数字
+    function p(s){
+        document.write(s);
+        document.write("<br>");
+    }
+
+    const a = Number("123abc");
+    p(a);
+    p(a==Number.NaN);
+    p(isNaN(a));
+
+    //返回数字的小数表达式
+    function q(t){
+        document.write(t);
+        document.write("<br>");
+    }
+
+    const b = Number("123.24324645");
+    q(b.toFixed(2));
+    q(b.toFixed(3));
+    //返回数字的科学表达式
+    q(b.toExponential());
+
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

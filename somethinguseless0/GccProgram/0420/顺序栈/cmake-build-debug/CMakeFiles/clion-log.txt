@@ -1,0 +1,39 @@
+"C:\RuanJian\CLion\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\AllProject\GccProgram\0420\顺序栈
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/ZyyDownload/MinGW/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/ZyyDownload/MinGW/mingw64/bin/gcc.exe - broken
+CMake Error at C:/RuanJian/CLion/CLion 2020.3.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/ZyyDownload/MinGW/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/AllProject/GccProgram/0420/椤哄簭鏍�/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/ZyyDownload/MinGW/mingw64/bin/mingw32-make.exe cmTC_7267b/fast && C:/ZyyDownload/MinGW/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_7267b.dir\build.make CMakeFiles/cmTC_7267b.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/AllProject/GccProgram/0420/椤哄簭鏍�/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_7267b.dir/testCCompiler.c.obj
+    C:\ZyyDownload\MinGW\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_7267b.dir\testCCompiler.c.obj   -c C:\AllProject\GccProgram\0420\妞ゅ搫绨弽鍦絚make-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+    gcc.exe: error: C:\AllProject\GccProgram\0420\妞ゅ搫绨弽鍦絚make-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+    gcc.exe: fatal error: no input files
+    compilation terminated.
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_7267b.dir\build.make:85: CMakeFiles/cmTC_7267b.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/AllProject/GccProgram/0420/椤哄簭鏍�/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:140: cmTC_7267b/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/AllProject/GccProgram/0420/椤哄簭鏍�/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/AllProject/GccProgram/0420/椤哄簭鏍�/cmake-build-debug/CMakeFiles/CMakeError.log".

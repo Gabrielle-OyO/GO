@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String</title>
+</head>
+<body>
+<script>
+
+    const x = "5";
+    const y = String(x);
+    //获取类型
+    document.write("变量x的值是:"+x);
+    document.write("<br>");
+    document.write("变量x的类型是:"+(typeof x));
+    document.write("<br>");
+    document.write("变量y的值是:"+y);
+    document.write("<br>");
+    document.write("变量y的类型是:"+(typeof y));
+    document.write("<br>");
+    //获取长度
+    let z = String("Hello JavaScript");
+    document.write("通过.length属性获取字符串'Hello JavaScript'的长度"+z.length);
+    //获取某位置的字符串
+    const a = String("Hello JavaScrpt");
+    document.write("字符串y的值:"+a);
+    document.write("<br>");
+    document.write('通过 charAt(0)获取位置0的字符串： '+a.charAt(0)); //返回H
+    document.write("<br>");
+    document.write('通过 charCodeAt(0)获取位置0的字符的 Unicode码 ：'+a.charCodeAt(0)); //返回H对应的Unicode码 72
+    //字符串拼接
+    const b = String("Hello ");
+    const c = String("Javascript");
+    document.write( '字符串x的值: '+b);
+    document.write('<br>');
+    document.write( '字符串y的值: '+c);
+    document.write('<br>');
+    document.write( '通过函数concat()把x和y连接起来: ' +  b.concat(c) );
+    //获取字符串的位置    有前后顺序
+    const d = String("Hello JavaScript");
+    document.write( '字符串y的值: '+d);
+    document.write('<br>');
+    document.write('通过 indexOf ("a")获取子字符"a" 第一次出现的位置 '+d.indexOf ("a"));
+    document.write('<br>');
+    document.write('通过 lastIndexOf ("a")获取子字符"a" 最后出现的位置 '+d.lastIndexOf ("a"));
+
+    // localeCompare 比较两段字符串是否相同，0即表示相同，非0表示不同
+    const e = String("Hello");
+    const f = String("Hello");
+    const g = String("aloha");
+    document.write( '字符串x的值: '+e);
+    document.write('<br>');
+    document.write( '字符串y的值: '+f);
+    document.write('<br>');
+    document.write( '字符串z的值: '+g);
+    document.write('<br>');
+    document.write('通过 localeCompare()判断 x和y是否相等 '+e.localeCompare(f));
+    document.write('<br>');
+    document.write('通过 localeCompare()判断 x和z是否相等 '+e.localeCompare(g));
+    document.write('<br>');
+    document.write(`0 表示相等<br>`);
+    document.write(`1 表示字母顺序靠后<br>`);
+    document.write('-1 表示字母顺序靠前<br>');
+
+    // substring 截取一段子字符串
+    const h = String("Hello JavaScript");
+    document.write( '字符串x的值: '+h);
+    document.write('<br>');
+    document.write('x.substring (0,3) 获取位0到3的字符串： '+h.substring (0,3) );
+    document.write('<br>');
+    document.write('左闭右开，取得到0，取不到3');
+
+    // split 根据分隔符，把字符串转换为数组。注： 第二个参数可选，表示返回数组的长度
+    const xx = String("Hello This Is JavaScript");
+    document.write( '字符串x的值: '+xx);
+    document.write('<br>');
+    const yy = xx.split(" ");
+    document.write('通过空格分隔split(" "),得到数组'+yy);
+    document.write("<br>");
+    const zz = xx.split(" ", 2);
+    document.write('通过空格分隔split(" ",2),得到数组，并且只保留前两个'+zz);
+
+//     replace(search,replacement)
+//     找到满足条件的子字符串search，替换为replacement
+//
+//     注: 默认情况下只替换找到的第一个子字符串，如果要所有都替换，需要写成：
+//
+//
+//     x.replace(/a/g, "o");
+//     或者
+//     var regS = new RegExp("a","g");
+//     x.replace(regS, "o");
+    function p(s){
+        document.write(s);
+        document.write("<br>");
+    }
+    const xxx = String("Hello JavaScript");
+    p(`这个是原字符串: ${xxx}`);
+    const yyy = xxx.replace("a", "o");
+    p(`只替换第一个 a:  ${yyy}`);
+    const regS = new RegExp("a", "g");
+    const zzz = xxx.replace(regS, "o");
+    p(`替换掉所有的 a:  ${zzz}`);
+
+    // 需要注意的是，所有返回字符串类型的方法，返回的都是基本类型的String
+    function q(ss){
+        document.write(ss);
+        document.write("<br>");
+    }
+
+    let xy = String("Hello JavaScript");
+
+    let temp = xy.charAt(0);
+    q('charAt返回的值'+temp);
+    q('其类型是'+ typeof temp );
+
+    temp = xy.concat("!!!");
+    q('concat返回的值'+temp);
+    q('其类型是'+ typeof temp );
+
+    temp = xy.substring(0, 5);
+    q('substring返回的值'+temp);
+    q('其类型是'+ typeof temp );
+
+</script>
+
+
+
+</body>
+</html>
