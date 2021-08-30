@@ -1,0 +1,214 @@
+@media (min-width: 1025px) {
+    .wow{
+        visibility: hidden;
+    }
+  	.header-top .left a:hover,
+  	.header-top .right a:hover{
+  		color: #226fd8;
+  	}
+  	.header-top .right .lang:hover{
+  	    background-image: url('../img/lang2.png');
+  	}
+  	.header-top .right .search-btn:hover{
+  	    background-image: url('../img/search-btn2.png');
+  	}
+
+  	.pc-nav li:hover .tit{
+  		color: #226fd8;
+  	}
+  	.pc-nav .has:hover .tit{
+  		border-color: #e2e2e2;
+  	}
+  	.pc-nav .has:hover .tit:before{
+  		background-image: url('../img/nav-arrow2.png');
+  	}
+
+  	.pc-nav li .navson a:hover{
+  		color: #226fd8;
+  	}
+  	.i-about .con-box:hover .detail span{
+  		background-image: url('../img/detail2.png');
+  		color: #0172e1;
+  	}
+  	.i-about .con-box:hover .detail span:before{
+  		width: 100%;
+  	}
+
+  	.i-school .con-box:hover .text{
+  		opacity: 1;
+  		filter: alpha(opacity=100);
+  	}
+
+  	.i-grade .prev:hover{
+  		background-image: url('../img/grade-prev2.png');
+  	}
+  	.i-grade .next:hover{
+  		background-image: url('../img/grade-next2.png');
+  	}
+  	.i-faculty-box .simg-box .prev:hover{
+  		background-image: url('../img/grade-prev2.png');
+  	}
+  	.i-faculty-box .simg-box .next:hover{
+  		background-image: url('../img/grade-next2.png');
+  	}
+
+  	.foot-fix .item:hover .tit{
+  		background-color: #005698;
+  	}
+  	.i-grade-box .more:hover{
+  		color: #0172e1;
+  		background-image: url('../img/grade-more2.png');
+  	}
+  	.f-nav li .navson a:hover{
+  		opacity: 1;
+  		filter: alpha(opacity=100);
+  	}
+
+  	/* .f-nav .school .navson a:hover{
+  		color: #1180e6;
+  	} */
+
+
+    .footer-top .icon-box .item:hover .img-box{
+        opacity: 1;
+        filter: alpha(opacity=100);
+        bottom: 1.1rem;
+        visibility: visible;
+    }
+
+    .sub-nav-box .swiper-slide:hover a{
+        background-color: #226fd8;
+        color: #fff;
+    }
+
+    .page a:hover{
+        background-color: #226fd8;
+    }
+    .page .prev:hover{
+        background-image: url('../img/page-prev2.png');
+    }
+    .page .next:hover{
+        background-image: url('../img/page-next2.png');
+    }
+    .guarantee-box .list .item:hover .hover{
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    
+    .select-box .sub a:hover{
+        background-color: #226fd8;
+        color: #fff;
+    }
+
+    .teacher-wrap .list .con-box:hover .border{
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    .teacher-wrap .list .con-box:hover .detail{
+        background-color: #367cdc;
+    }
+    .teacher-wrap .list .con-box:hover .detail span{
+        color: #fefeff;
+        background-image: url('../img/teacher-arrow2.png');
+    }
+
+    .teacher-wrap .list .con-box:hover .img img{
+        transform: scale(1);
+    }
+    
+    .sign-box:hover .tit span{
+        background-image: url('../img/sign-arrow2.png');
+    }
+
+    .guide-box .list .con-box:hover .detail span{
+        color: #226fd8;
+        background-image: url('../img/guide-arrow2.png');
+    }
+    .guide-box .list .con-box:hover .icon{
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    .question-box .list .con-box:hover .detail span{
+        color: #e94609;
+        background-image: url('../img/question-arrow.png');
+    }
+    .newsinfo-box .left .buttons a:hover{
+        color: #226fd8;
+    }
+    .newsinfo-box .right .list a:hover{
+        color: #fff;
+        background-color: #226fd8;
+    }
+    .newsinfo-box .right .list a:hover:before{
+        background-image: url('../img/guideinfo-more2.png');
+    }
+
+    .i-news .left .item.cur{
+        background-image: url('../img/i-news-bg2.jpg');
+    }
+    .i-news .left .item.cur .day,
+    .i-news .left .item.cur .ym,
+    .i-news .left .item.cur .more,
+    .i-news .left .item.cur .tit,
+    .i-news .left .item.cur .con{
+        color: #fff;
+    }
+    .i-news .left .item.cur .more{
+        background-image: url('../img/i-news-arrow2.png');
+    }
+    .i-news .left .item.cur .time-box{
+        border-color: #fff;
+    }
+    .i-faculty-box .simg .swiper-slide:hover .mask{
+        opacity: 0;
+        filter: alpha(opacity=0);
+    }
+    .i-grade .swiper-slide:hover img{
+        transform: scale(1.1);
+    }
+    .group-box .social .con-box:hover img{
+        transform: scale(1.1);
+    }
+    .profile-box .img:hover .mask{
+        opacity: .5;
+        filter: alpha(opacity=50);
+    }
+    .video-box .list .con-box:hover .mask{
+        opacity: .5;
+        filter: alpha(opacity=50);
+    }
+    .recruit-box .recruit .look-btn:hover span:before{
+        right: -.3rem;
+    }
+    .news-box .list .item:hover .day,
+    .news-box .list .item:hover .ym,
+    .news-box .list .item:hover .tit,
+    .news-box .list .item:hover .more-box .more{
+        color: #226fd8;
+    }
+    .news-box .list .item:hover .day{
+        border-color: #226fd8;
+    }
+    .news-box .list .item:hover .more-box .more{
+        background-image: url('../img/news-arrow2.png');
+    }
+    .news-box .list .item:hover img{
+        transform: scale(1.1);
+    }
+    .achievement-tab .item:hover img{
+        transform: scale(1.1);
+    }
+    .train-btns a:hover{
+        color: #fff;
+        background: #226fd8;
+    }
+
+    .i-faculty-box .faculty-more:hover{
+      background: #226fd8;
+      transition: all .3s;
+      border-color: #226fd8
+    }
+    .dialog-box .dialog-close:hover {
+        transform: rotate(180deg);
+    }
+}

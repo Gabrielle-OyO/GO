@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital</title>
+</head>
+<body>
+
+<script>
+    function p(s){
+        document.write(s);
+        document.write("<br>");
+    }
+
+    p("1+2="+(1+2));
+    p("2*3="+(2*3));
+    p("1==2:"+(1===2));
+    p("1=='1':"+(1=='1'));
+    p("1==='1':"+(1==='1'));
+
+
+    const age = 19;
+    if(age<18){
+        document.write("如果小于18，就看卡通");
+    }else{
+        document.write("就不要看卡通啦");
+        document.write("<br>");
+    }
+
+
+    const day = new Date().getDay();
+    let today;
+    switch(day)
+    {
+        case 0:
+            today="Sunday";break;
+        case 1:
+            today="Monday";break;
+        case 2:
+            today="Tuesday";break;
+    }
+    document.write("today is "+today);
+    document.write("<br>");
+
+
+    function q(s){
+        document.write(s);
+        document.write("<br>");
+    }
+    document.write("xunhuandayin<br>");
+
+    for(let i=0; i<5; i++) q(i);
+
+    let j=0;
+    while(j<5){
+        q(j);
+        let number = j++;
+    }
+
+    let k=0;
+    do{
+        q(k);
+        let number1 = k++;
+    }while(k<6);
+
+    for(let l=0;l<8;l++){
+        if(l==3)
+            continue;
+        q(l);
+    }
+
+    for(let m=0;m<8;m++){
+        if(m==3)
+            break;
+        q(m);
+    }
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+</body>
+</html>

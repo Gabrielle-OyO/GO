@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Object</title>
+</head>
+<body>
+
+<script>
+
+    // 通过new Object创建对象顶折
+    let hero = {};
+    hero.name = 'Galen';                           //定义一个属性name，并且赋值
+    hero.kill = function()
+    {
+        document.write(`${hero.name} killing the enemy<br>` );   //定义一个函数kill
+    }
+    hero.kill(); //调用函数kill
+
+    // 通过function设计一个对象      这个真的不太明白
+    function Hero(name)
+    {
+        this.name = name;
+        this.kill = function(){
+            document.write(this.name + "正在杀敌<br>");
+        }
+    }
+    let gareen = new Hero("盖伦");
+    gareen.kill();
+
+    let teemo = new Hero("提莫");
+    teemo.kill();
+
+    // 为已经存在的对象，增加新的方法
+    function Hero(name){
+        this.name = name;
+        this.kill = function(){
+            document.write(this.name + "正在杀敌<br>");
+        }
+    }
+
+    let garee = new Hero("盖伦");
+    gareen.kill();
+
+    let teem = new Hero("提莫");
+    teemo.kill();
+
+    Hero.prototype.keng = function(){
+        document.write(this.name + "正在坑队友<br>");
+    }
+
+    garee.keng();
+    teemo.keng();
+
+
+
+</script>
+
+
+
+
+
+
+
+
+</body>
+</html>
